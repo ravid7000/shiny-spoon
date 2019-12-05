@@ -1,6 +1,11 @@
 # Stock
 
 ## Setup
+Clone this repo:
+```
+git clone https://github.com/ravid7000/shiny-spoon.git
+```
+
 I'm using Create-React-App boilerplate
 ```
 npm i
@@ -12,6 +17,7 @@ npm start
 ```
 
 ## Director Structure
+```
 -- .env // environment file
 -- src
     |- Components // Global Components
@@ -28,7 +34,7 @@ npm start
         |- store.js // Redux store
     |- index.js // Enter file
     |- styles.scss // global styles. I'm using reset.css
-
+```
 ## Tech
 React, Redux, Fetch, Recharts and Redux Custom middleware to handle api request.
 
