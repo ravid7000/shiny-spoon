@@ -1,5 +1,8 @@
 # Stock
 
+## Demo
+[See Demo](https://ravid7000.github.io/shiny-spoon/)
+
 ## Setup
 Clone this repo:
 ```
